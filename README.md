@@ -1,6 +1,6 @@
-# MyAwesomeApp
+# URL Launcher
 
-MyAwesomeApp is a mobile application built with Flutter that allows users to register, login, and access various resources related to courses, colleges, competitive exams, quizzes, coding websites, and books.
+URL Lancher is a mobile application built with Flutter that allows users to register, login, and access various resources related to courses, colleges, competitive exams, quizzes, coding websites, and books.
 
 ## Features
 
